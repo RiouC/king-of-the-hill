@@ -19,6 +19,6 @@
 
 ** Amélioration
 
- - [ ] events
-
+- [X] events
+- [X] cannot outbid on your own bid
 
