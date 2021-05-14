@@ -1,0 +1,18 @@
+
+* King of the hill
+
+** Règles
+
+- [X] Le joueur qui envoi le double du pot actuel devient le pot owner.
+- [ ] Si le pot owner reste l'owner de ce pot pendant un certain nombre de blocs, il gagne 80% du pot.
+- [ ] 10% sont envoyés à l'owner du smart contract
+- [ ] 10% sont laissés dans le pot comme seed du prochain tour 
+
+** Edge cases
+
+ - [ ] déploiement
+ - [ ] nouveau tour
+
+** Amélioration
+ 
+
