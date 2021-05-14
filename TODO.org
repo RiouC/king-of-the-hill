@@ -10,7 +10,7 @@
 
 ** Edge cases
 
- - [ ] déploiement
+ - [X] déploiement
  - [ ] nouveau tour
 
 ** Amélioration
